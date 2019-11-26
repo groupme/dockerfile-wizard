@@ -17,10 +17,6 @@ image_config: &image_config
 
   RUBY_VERSION_NUM: 2.0.0-p648
 
-  NODE_VERSION_NUM: 10.15.0
-
-  PYTHON_VERSION_NUM: 2.7.9
-
   JAVA: false
 
   MYSQL_CLIENT: false
